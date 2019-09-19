@@ -1,0 +1,53 @@
+{{ partial "site-header" .}}
+
+{{ partial "site-navbar" }}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">{{ .Title }}</h1>
+        </div>
+
+    </div>
+    <!-- End row-->
+</div>
+<!-- End container-->
+
+<div class="container">
+    <div class="row">
+        <p class="text-center"><strong>{{ .Params.Author }}</strong></p>
+    </div>
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+            <p class="lead">
+              {{ .Params.lead }}
+            </p>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+    <!-- End row -->
+</div>
+<!-- End container -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+
+        </div>
+        <div class="col-md-8">
+            {{ .Content | markdownify }}
+        </div>
+        <div class="col-md-2">
+          
+        </div>
+        <!-- End col -->
+    </div>
+    <!-- End row -->
+</div>
+<!-- End container -->
+
+</div>
+
+
+{{ partial "site-footer.html" }}
