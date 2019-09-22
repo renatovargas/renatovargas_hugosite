@@ -87,7 +87,7 @@
   {{ end }}
 END COMMENT OUT-->
 
-<!-- START PODCAST COMMENT OUT / END PODCAST COMMENT OUT -->
+<!-- START PODCAST COMMENT OUT / 
   {{ range where .Pages "Section" "podcast" }}
   {{ range first 1 .Pages }}
 <div class="col-md-2 col-sm-3 col-xs-6">
@@ -105,10 +105,10 @@ END COMMENT OUT-->
 {{ end }}
 {{ end }}
 
-
+END PODCAST COMMENT OUT -->
 
 {{ range where .Pages "Section" "blog" }}
-  {{ range first 3 (after 1  .Pages ) }}
+  {{ range first 4 (after 1  .Pages ) }}
 <div class="col-md-2 col-sm-3 col-xs-6">
   <div class="thumbs-box">
     
