@@ -10,7 +10,7 @@
             <h1 class="text-center">{{ .Params.Title }}</h1>
 
               {{ range first 10 .Data.Pages }}
-              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{.Date.Format "02/01/2006"}}</small></h3>
               <p>{{ .Params.lead | markdownify }}</p>
             {{ end }}
 

@@ -3,7 +3,7 @@ title: "Olvídate de todo para enfocarte en lo que importa"
 author: "Renato Vargas"
 lead: "Lo menos intuitivo en el viaje del alto desempeño es que para dar el máximo en los momentos de ejecución perfecta, tenemos que ser perfectos para descansar también y para ello existe una serie de técnicas que podemos aplicar para mejorar."
 shortdesc: "Debemos saber descansar para poder dar el máximo."
-date: "2019-09-18"
+date: "2019-09-19"
 draft: false
 ---
 

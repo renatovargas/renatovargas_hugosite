@@ -59,7 +59,7 @@
 
 <div class="container">
 	<div class="row">
-		<h3 class="text-center">Vídeos, podcast y más...</h3>
+		<h3 class="text-center">Y más...</h3>
 	</div> 
 </div> 
 
@@ -67,7 +67,7 @@
 	<div class="row">
 		<div class="col-md-2"></div>
 		
-		
+<!--	START COMMENT OUT	
     {{ range where .Pages "Section" "videos" }}
       {{ range first 1 .Pages }}
 	  <div class="col-md-2 col-sm-3 col-xs-6">
@@ -85,9 +85,10 @@
   </div>
   {{ end }}
   {{ end }}
+END COMMENT OUT-->
 
-	  
-  {{ range where .Pages "Section" "podcasts" }}
+<!-- START PODCAST COMMENT OUT / END PODCAST COMMENT OUT -->
+  {{ range where .Pages "Section" "podcast" }}
   {{ range first 1 .Pages }}
 <div class="col-md-2 col-sm-3 col-xs-6">
   <div class="thumbs-box">
@@ -103,9 +104,11 @@
 </div>
 {{ end }}
 {{ end }}
-	  
+
+
+
 {{ range where .Pages "Section" "blog" }}
-  {{ range first 2 (after 2  .Pages ) }}
+  {{ range first 3 (after 1  .Pages ) }}
 <div class="col-md-2 col-sm-3 col-xs-6">
   <div class="thumbs-box">
     
