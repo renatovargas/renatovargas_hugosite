@@ -3,7 +3,7 @@ title: "La ejecución perfecta"
 author: "Renato Vargas"
 lead: "La ejecución perfecta en el trabajo, el aprendizaje, las relaciones y la salud se parece mucho a esos momentos de inspiración en que todo parece realizarse sin esfuerzo, el tiempo desaparece y encontramos gran satisfacción en la tarea. ¿Cómo hacemos para que esos momentos no sean fortuitos y los podamos conjurar a nuestra voluntad?"
 shortdesc: "¿Cómo hacemos para tener más momentos de ejecución perfecta en nuestras vidas?"
-date: "2019-09-15"
+date: "2019-09-16"
 draft: false
 tags: ["ejecución perfecta","cognición corpórea", "alto desempeño", "aprendizaje acelerado"]
 ---
