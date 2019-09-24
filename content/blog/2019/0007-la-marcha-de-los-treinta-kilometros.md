@@ -1,7 +1,7 @@
 ---
 title: "La marcha de los treinta kilómetros"
 author: "Renato Vargas"
-lead: "Al principio de un proceso de mejora nos sentimos muy entusiasmados y hacemos mucho. Al llegar el inevitable primer período de estancamiento paramos por completo. Luego quizá hagamos un intento aquí y allá esporádico, hasta que abandonamos la tarea o la adopción de ese nuevo hábito. ¿Cómo evitamos esa variabilidad en nuestro abordaje?"
+lead: "Al principio de un proceso de mejora nos sentimos muy entusiasmados y hacemos mucho. Al llegar el inevitable primer período de estancamiento paramos por completo. Después de la intensidad inicial, quizá hagamos un intento aquí y allá esporádico hasta que abandonamos la tarea o la adopción de ese nuevo hábito. ¿Cómo evitamos esa variabilidad en nuestro abordaje?"
 shortdesc: "Para mejorar la constancia en nuestro crecimiento y la adopción de hábitos sólidos, podemos dosificar nuestras acciones."
 date: "2019-09-24"
 draft: false
