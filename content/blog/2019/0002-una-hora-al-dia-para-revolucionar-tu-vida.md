@@ -2,7 +2,7 @@
 title: "Una hora al día para revolucionar tu vida"
 author: "Renato Vargas"
 lead: "Uno de los requisitos de la ejecución perfecta es la constancia. Las prácticas que nos pueden llevar a ser mejores solo muestran su valor después de repetirlas por algún tiempo. ¿Qué podemos hacer para diseñar una práctica diaria efectiva que nos lleve a tener más momentos de ejecución perfecta a voluntad?"
-shortdesc: "Cómo ser constantes, deliberados a través acciones prácticas diarias."
+shortdesc: "Cómo ser constantes y deliberados a través acciones prácticas diarias."
 date: "2019-09-17"
 draft: false
 slug: "una-hora-al-dia-para-revolucionar-tu-vida"
