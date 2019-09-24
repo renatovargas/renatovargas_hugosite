@@ -5,6 +5,7 @@ lead: "Esos momentos en que todo parece fluir a la perfección se caracterizan p
 shortdesc: "Conocer las etapas de la ejecución perfecta nos permite diseñar prácticas para experimentarlas más."
 date: "2019-09-23"
 draft: false
+slug: "las-fases-de-la-ejecucion-perfecta"
 ---
 
 Los momentos de ejecución perfecta, es decir, aquellas situaciones en las que experimentamos una completa absorción en la tarea, durante la cual el tiempo se desvanece y nosotros ejecutamos a la perfección y casi sin esfuerzo se caracterizan por tener cuatro fases bien definidas. Esas fases son lucha interna, liberación, ejecución perfecta y recuperación.
@@ -25,4 +26,4 @@ Esta es la fase que estamos buscando; el Santo Grial del alto rendimiento y dese
 
 Sin embargo, todo lo bueno llega a su fin y ese cóctel de neuroquímicos, los cuales requieren muchos recursos por parte del cuerpo para producirse, se acaban y quedamos con la satisfacción de una tarea bien realizada. En esta fase la serotonina nos hace sentir plenos, relajados y felices. Además, se libera en nuestro organismo la oxitocina, la cual nos hace crear lazos más fuertes con las personas con las que experimentamos el momento de ejecución perfecta, si se trató de una tarea grupal o en pareja. Este es el momento en el que los nuevos conocimientos se afianzan y las redes neuronales utilizadas durante la fase anterior se solidifican y convierten en conocimiento adquirido. Esta es una fase de descanso y es crucial para poder replicar el ciclo una vez más. A descansar se ha dicho.
 
-Entender estas fases nos permite poner en contexto a los disparadores de los momentos de ejecución perfecta los cuales iremos explorando en otras entregas.
+Entender estas fases nos permite poner en contexto a los disparadores de los momentos de ejecución perfecta.

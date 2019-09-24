@@ -6,6 +6,7 @@ shortdesc: "¿Cómo hacemos para tener más momentos de ejecución perfecta en n
 date: "2019-09-16"
 draft: false
 tags: ["ejecución perfecta","cognición corpórea", "alto desempeño", "aprendizaje acelerado"]
+slug: "la-ejecucion-perfecta"
 ---
 Todos hemos experimentado momentos de ejecución perfecta. Pueden haber tomado la forma de una conversación de en que nos perdimos por horas con esa nueva persona que acabábamos de conocer. Tal vez sucedió una noche en la que necesitábamos entregar una tarea importante al día siguiente y nos quedamos trabajando toda la noche con una concentración casi divina que dio como resultado un trabajo a la perfección. O probablemente sucedió durante una lluvia de ideas en grupo en que todos parecían estar en armonía perfecta. 
 

@@ -5,7 +5,7 @@ lead: "Nosotros estamos diseñados para movernos. Tenemos neuronas en el corazó
 shortdesc: "Necesitamos activar nuestro cuerpo para poder dominar nuestra mente."
 date: "2019-09-19"
 draft: false
-
+slug: "muevete-y-piensa-mejor"
 ---
 
 Por decenas de miles de años, los seres humanos fuimos cazadores y recolectores nómadas. Tenemos visión binocular, una serie de sensores para balancearnos que ponen en vergüenza a los giroscopios más sofisticados, piernas largas con unas maravillas de la biología como pies y pulgares opuestos. Estamos diseñados para acechar presas más grandes que nosotros, confeccionar herramientas, distinguir amenazas desde la distancia y doblegar a la naturaleza alrededor de nosotros. 

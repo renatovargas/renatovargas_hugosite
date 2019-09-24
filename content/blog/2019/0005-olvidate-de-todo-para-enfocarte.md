@@ -5,6 +5,7 @@ lead: "Lo menos intuitivo en el viaje del alto desempeño es que para dar el má
 shortdesc: "Debemos saber descansar para poder dar el máximo."
 date: "2019-09-20"
 draft: false
+slug: "olvidate-de-todo-para-enfocarte"
 ---
 
 

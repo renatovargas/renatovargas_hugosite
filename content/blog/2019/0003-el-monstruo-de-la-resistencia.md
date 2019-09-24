@@ -5,6 +5,7 @@ lead: "Cuando empezamos un nuevo proyecto estamos llenos de entusiasmo. La noved
 shortdesc: "¿Cómo vencemos la resistencia cuando llega el primer momento de estancamiento?"
 date: "2019-09-18"
 draft: false
+slug: "el-monstruo-de-la-resistencia"
 
 ---
 

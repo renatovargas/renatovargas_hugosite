@@ -5,7 +5,7 @@ lead: "Uno de los requisitos de la ejecución perfecta es la constancia. Las pr�
 shortdesc: "Cómo ser constantes, deliberados y congruentes con lo que queremos alcanzar a través acciones prácticas diarias."
 date: "2019-09-17"
 draft: false
-
+slug: "una-hora-al-dia-para-revolucionar-tu-vida"
 ---
 La práctica diaria lo es todo.
 
