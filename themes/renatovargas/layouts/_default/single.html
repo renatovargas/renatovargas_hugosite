@@ -21,7 +21,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-10">
             <p class="lead">
-              {{ .Params.lead }}
+              {{ .Params.lead | markdownify }}
             </p>
         </div>
         <div class="col-md-1"></div>
