@@ -36,7 +36,7 @@ Nuestra práctica regular debe introducir elementos que nos permitan activar est
 
 **Psicológicos:**
 
-1. Ambientes ricos en estímulos.
+1. La atención y enfoque intenso en la tarea.
 2. Las metas claras.
 3. La retroalimentación inmediata.
 4. El balance entre el reto y el nivel actual de habilidad.
