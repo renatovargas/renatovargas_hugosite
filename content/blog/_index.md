@@ -1,5 +1,5 @@
 ---
-title: "El Blog de Renato"
+title: "Todos los artículos"
 author: "Renato Vargas"
 
 
