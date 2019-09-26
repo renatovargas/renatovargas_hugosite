@@ -1,7 +1,7 @@
 ---
-title: "Acerca de mí"
+title: "¿Quién es Renato Vargas?"
 author: ""
-lead: "**Me causa satisfacción cuando veo que la forma más sencilla de resolver un problema o la solución más adecuada en el mundo para hacer algo es utilizada por quien lo necesita y que no se tenga que conformar o se vea obligado a utilizar una versión inferior de las cosas.**"
+lead: "**Me causa satisfacción cuando una persona tiene acceso a la forma más innovadora de resolver un problema y no se ve obligada a utilizar una solución inferior. Lo contrario me indigna.**"
 shortdesc: ""
 
 draft: false
