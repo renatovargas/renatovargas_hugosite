@@ -1,5 +1,5 @@
 ---
-title: "¿Quién es Renato Vargas?"
+title: "Renato Vargas"
 author: ""
 lead: "**Me causa satisfacción cuando una persona tiene acceso a la forma más innovadora de resolver un problema y no se ve obligada a utilizar una solución inferior. Lo contrario me indigna.**"
 shortdesc: ""
