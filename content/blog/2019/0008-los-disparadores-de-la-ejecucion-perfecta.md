@@ -3,6 +3,7 @@ title: "Los disparadores de la ejecución perfecta"
 author: "Renato Vargas"
 lead: "Hay una serie de acciones y circunstancias que propician los momentos de ejecución perfecta. Algunas de estas son individuales y otras suceden cuando estamos con grupos. Conocerlas nos ayuda a diseñar prácticas que nos ayuden a tener un alto desempeño de manera deliberada."
 shortdesc: "Las acciones individuales o grupales que aceleran el acceso a momentos de ejecución perfecta de manera deliberada."
+tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado","disparadores","metas", "inmersión","grandes consecuencias","familiaridad","igualdad","riesgo"]
 date: "2019-09-25"
 draft: false
 slug: "los-disparadores-de-la-ejecucion-perfecta"
