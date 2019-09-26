@@ -37,8 +37,11 @@
         </div>
         <div class="col-md-8">
             {{ .Content | markdownify }}
+            
+            {{ with .Params.tags }}
             <hr>
-            {{ with .Params.tags }}<p> Temas: {{ range $index, $tag := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" }}{{ . | urlize }}">{{ . }}</a>{{ end }}.</p> {{ end }}
+            <p> Temas: {{ range $index, $tag := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" }}{{ . | urlize }}">{{ . }}</a>{{ end }}.</p> 
+            {{ end }}
 
         </div>
         <div class="col-md-2">
