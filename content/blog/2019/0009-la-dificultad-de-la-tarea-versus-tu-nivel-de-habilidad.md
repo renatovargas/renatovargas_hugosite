@@ -1,0 +1,20 @@
+---
+title: "La dificultad de la tarea versus tu nivel de habilidad"
+author: "Renato Vargas"
+lead: "Para lograr entrar en estados de ejecución perfecta es necesario mantener un balance entre nuestro nivel de habilidad y la dificultad de la tarea. Si las cosas son demasiado difíciles nos frustramos y si son demasiado fáciles nos aburrimos o simplemente dejamos de progresar."
+shortdesc: "Mantener un balance entre habilidad y dificultad de la tarea nos lleva a más momentos de ejecución perfecta."
+tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "dificultad", "habilidad", "crecimiento", "blue mall", "norepinefrina"]
+date: "2019-09-26"
+draft: false
+slug: "la-dificultad-de-la-tarea-versus-tu-nivel-de-habilidad"
+---
+
+Nuestra habilidad para hacer cualquier cosa está determinada por nuestras experiencias previas, en el caso de actividades intelectuales o por nuestro nivel actual de destreza física en el caso de deportes y actividades corporales. Esta habilidad puede ser mayor o menor y ser catalogada de amateur a profesional o de aceptable a excepcional. Por otra parte, es cierto que la dificultad de la tarea puede parecer una cualidad intrínseca de la misma, pero también es cierto que podemos ejercer algún control sobre la misma en función de cuánto de la misma decidimos abarcar o abordar. La dificultad entonces, aunque subjetiva y relacionada a nuestro nivel actual de habilidad, puede ir desde muy fácil hasta extremadamente complicada.
+
+El truco aquí, si queremos entrar en un momento de ejecución perfecta, es abarcar o abordar la tarea de manera que la dificultad se mantenga ligeramente por encima de nuestras habilidades actuales. Eso nos despierta el interés y nos inunda la norepinefrina, la cual nos hace expandir la mente para tratar de hacer sentido de lo desconocido y nos mantenemos enganchados. Por supuesto, si el nivel de dificultad sobrepasa cierto umbral, el cual ciertas experiencias nos dicen que anda alrededor de 4% encima de nuestro nivel de habilidad actual, nos empieza a invadir el cortisol y la tarea nos cuesta tanto que nos abruma o nos frustra y la abandonamos.
+
+Por otra parte, si la tarea no es lo suficientemente retadora y se nos hace demasiado fácil, entramos en modo automático y dejamos de involucrar las partes del cerebro encargadas de identificar patrones y nuevos conocimientos. Nos aburrimos y como resultado, abandonamos la tarea, o desempeñamos un papel mediocre. El aprendizaje de algo nuevo, como un deporte o un instrumento musical es un excelente ejemplo. Anders Ericcsson y Robert Pool lo explican muy bien en "*Peak: Secrets from the New Science of Expertise*" en donde hablan de que todos hemos experimentado algo similar.
+
+Quizá nos hemos adentrado en un deporte nuevo y al principio aprendemos lo básico. Nos cuesta adoptar la memoria muscular necesaria para batir la raqueta apropiadamente. Vemos que progresamos a un nivel elemental de habilidad y eso nos mantiene enganchados. Pero al alcanzar la competencia básica, el cuerpo que es una máquina de ahorrar esfuerzo, pasa lo aprendido a la memoria de largo plazo y entramos en modo automático. Este momento es cuando muchos de nosotros dejamos de progresar y empezamos a repetir más de lo mismo básico. Al no buscar instrucción adicional y prácticas que nos reten arriba de ese nivel elemental, nos estancamos en el mejor de los casos o abandonamos el nuevo deporte que aprendimos.
+
+A todos nos pasa y es normal. Estamos diseñados para aprender muchas tareas a nivel de competencia básica y descartar todo lo que no sea necesario. Si no sucediera de esta manera, estaríamos constantemente retándonos para lavarnos mejor los dientes o lavar de manera más pulcra los platos. Pero si queremos entrar en momentos de ejecución perfecta o ser excelentes en una tarea específica, debemos retarnos, al menos arriba del 4%. A través de las prácticas diarias podemos diseñar cómo queremos definir ese esfuerzo adicional por sobre nuestro nivel de habilidad que nos mantendrá enganchados.
