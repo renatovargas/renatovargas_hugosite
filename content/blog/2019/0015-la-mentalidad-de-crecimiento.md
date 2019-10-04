@@ -1,7 +1,7 @@
 ---
 title: "La mentalidad de crecimiento"
 author: "Renato Vargas"
-lead: "Existen dos grandes formas de pensar en cuanto a aprendizaje se refiere y por mucho tiempo existió un debate entre los que proponían que la genialidad solamente se traía en los genes y los que afirmaban que la misma se podía construir. Pero hoy, con certeza científica podemos afirmar que puedes mejorar cualquier aspecto de tu vida."
+lead: "Existen dos grandes formas de pensar en cuanto a aprendizaje se refiere y por mucho tiempo existió un debate entre los que proponían que la genialidad solamente se traía en los genes y los que afirmaban que la misma se podía construir. Pero hoy, con certeza científica podemos afirmar que puedes mejorar cualquier aspecto de tu vida y construir tu propia genialidad."
 shortdesc: "Eres capaz de mejorar o cambiar cualquier aspecto de tu vida. Nada está escrito en piedra, ni siquiera tus genes."
 tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "mentalidad de crecimiento", "mentalidad fija", "genético", "retroalimentación inmediata"]
 date: "2019-10-04"
