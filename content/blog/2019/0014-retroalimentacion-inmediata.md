@@ -3,7 +3,7 @@ title: "Retroalimentación inmediata"
 author: "Renato Vargas"
 lead: "Pruebo, me equivoco, corrijo el rumbo, pruebo otra vez, me vuelvo a equivocar, corrijo el rumbo una vez más. Eventualmente lo logro y celebro el éxito. ¿Cómo saber si me equivoqué o lo hice bien? La retroalimentación durante los momentos de ejecución perfecta nos motiva y acelera la concentración en la tarea y el perfeccionamiento de nuestras acciones."
 shortdesc: "La retroalimentación durante los momentos de ejecución perfecta acelera el perfeccionamiento de nuestras acciones."
-tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "retroalimentación"]
+tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "retroalimentación inmediata"]
 date: "2019-10-03"
 draft: false
 slug: "retroalimentacion-inmediata"
