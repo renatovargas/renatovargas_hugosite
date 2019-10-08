@@ -9,7 +9,7 @@
         <div class="col-md-10">
             <h1 class="text-center">{{ .Params.Title }}</h1>
 
-              {{ range first 10 .Data.Pages }}
+              {{ range .Data.Pages }}
               <h3><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{.Date.Format "02/01/2006"}}</small></h3>
               <p>{{ .Params.shortdesc | markdownify }}</p>
             {{ end }}
