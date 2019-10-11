@@ -4,7 +4,7 @@ author: "Renato Vargas"
 lead: "La música es mucho más importante de lo que pensamos para propiciar momentos de ejecución perfecta y llevar vidas más sanas."
 shortdesc: "La música tiene el poder de determinar tu estado de ánimo en el corto plazo."
 tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "plasticidad cerebral", "música", "hábitos"]
-date: "2019-10-09"
+date: "2019-10-10"
 draft: false
 slug: "el-poder-de-la-música.md"
 ---
