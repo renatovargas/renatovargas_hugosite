@@ -6,7 +6,7 @@ shortdesc: "¿Cómo hacemos para sentirnos cómodos en la incomodidad para dar e
 tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "grandes consecuencias", "disparadores de ejecución perfecta", "hábitos", "box breathing"]
 date: "2019-10-11"
 draft: false
-slug: "comodos-en-la-incomodidad.md"
+slug: "comodos-en-la-incomodidad"
 ---
 
 Estoy seguro que has experimentado esa sensación. Quizá te pidieron hablar frente a una audiencia y no estabas preparada. Tal vez tuviste que atravesar un puente que no parecía muy seguro. O simplemente tenías que decidir si ibas a saltar o no de ese trampolín a una piscina. La sensación se conoce como un "pico de excitación" y es un mecanismo antiguo diseñado para prepararnos para huir o pelear contra un depredador en la naturaleza. Lo que sucede es que nos inundamos de cortisol y norepinefrina, los cuales nos ponen en estado de alerta, dilatan nuestras pupilas, elevan nuestro ritmo cardiaco y aceleran nuestra respiración. 
