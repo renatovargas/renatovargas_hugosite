@@ -1,7 +1,7 @@
 ---
 title: "El momento presente"
 author: "Renato Vargas"
-lead: "Una de las únicas cosas que nos diferencia de todos los otros seres de este planeta es la capacidad de reflexionar sobre el pasado y el futuro. Es también nuestra mayor debilidad."
+lead: "Una de las cosas que nos diferencia de todos los otros seres de este planeta es la capacidad de reflexionar sobre el pasado y el futuro. Es también nuestra mayor debilidad."
 shortdesc: "El presente: Debemos salir del duro pasado y el futuro incierto."
 tags: ["ejecución perfecta","alto desempeño","aprendizaje acelerado", "pasado perfecto", "box breathing"]
 date: "2019-10-14"
