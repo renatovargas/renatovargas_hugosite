@@ -3,7 +3,7 @@ title: "Gracias, muchas gracias"
 author: "Renato Vargas"
 lead: "Una de las formas de concentrarnos en el momento presente es a través de expresar gratitud. Si quieres acceder a los momentos de ejecución perfecta de manera predecible y deliberada, aprende a dar gracias."
 shortdesc: "La gratitud te permitirá acceder a los momentos de ejecución perfecta de manera más predecible."
-tags: ["ejecución perfecta","alto desempeño","presente", "pasado perfecto", "box breathing"]
+tags: ["ejecución perfecta","alto desempeño","presente", "pasado perfecto", "box breathing", "gratitud"]
 date: "2019-10-15"
 draft: false
 slug: "gracias-muchas-gracias"
