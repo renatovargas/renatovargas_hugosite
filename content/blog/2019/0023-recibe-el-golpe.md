@@ -15,8 +15,10 @@ Un método efectivo para implementar la gratitud en momentos duros es _recibir e
 
 Así que la siguiente vez que alguien te atraviese el automóvil en la autopista, expresa gratitud:
 
-Detenernos: Romper el patrón es crucial. En donde normalmente la amígdala nos sobrecoge y nos hace reaccionar negativamente, detengámonos.
-Contemplemos: Recibamos el golpe y pensemos "gracias por permitirme aprender que no toda la gente maneja bien o tiene buenas intenciones y yo tengo que estar preparado para no perder la cabeza cuando invariablemente me tope con una de estas personas".
-Apliquemos algo nuevo: Esta es la parte importante del ejercicio. Aquí debemos romper el patrón a través de hacer algo diferente. Después de la reflexión anterior, deberemos hacer algo. Qué es irrelevante, solo tiene que ser algo que nos ayude a anclar la reflexión y contemplación del paso anterior al momento. Esto puede ser, grabar una nota de voz con la lección positiva o el agradecimiento que no mandamos a nadie. Si estamos detenidos, puede ser mandar un texto a alguien que nos importe agradeciéndole por alguna otra cosa. O si la situación sucede en otro tipo de entorno, puede ser escribir en un diario.
+**Detenernos**: Romper el patrón es crucial. En donde normalmente la amígdala nos sobrecoge y nos hace reaccionar negativamente, detengámonos.
+
+**Contemplar**: Recibamos el golpe y pensemos "gracias por permitirme aprender que no toda la gente maneja bien o tiene buenas intenciones y yo tengo que estar preparado para no perder la cabeza cuando invariablemente me tope con una de estas personas".
+
+**Aplicar la reflexión**: Esta es la parte importante del ejercicio. Aquí debemos romper el patrón a través de hacer algo diferente. Después de la reflexión anterior, deberemos hacer algo. Qué es irrelevante, solo tiene que ser algo que nos ayude a anclar la reflexión y contemplación del paso anterior al momento. Esto puede ser, grabar una nota de voz con la lección positiva o el agradecimiento que no mandamos a nadie. Si estamos detenidos, puede ser mandar un texto a alguien que nos importe agradeciéndole por alguna otra cosa. O si la situación sucede en otro tipo de entorno, puede ser escribir en un diario.
 
 Jugarle la vuelta a esos momentos difíciles nos permitirá retornar a estados más receptivos en que se nos facilite entrar en momentos de ejecución perfecta de manera más deliberada y predecible.
