@@ -2,7 +2,7 @@
 title: "Recibe el golpe"
 author: "Renato Vargas"
 lead: "Es fácil expresar gratitud por lo bueno de nuestras vidas, pero es un reto aprender a sentir gratitud por lo no tan bueno. ¿Cómo reprogramamos ese mecanismo que escudriña el entorno en busca de amenazas para que encuentre por qué estar agradecido?"
-shortdesc: "¿Cómo aprendemos a sentir gratitud por los retos difíciles."
+shortdesc: "¿Cómo aprendemos a sentir gratitud por los retos difíciles?"
 tags: ["ejecución perfecta","alto desempeño", "gratitud"]
 date: "2019-10-16"
 draft: false
