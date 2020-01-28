@@ -4,10 +4,9 @@ title: "Las valiosas lecciones que aprendí en Popoyán"
 author: "Renato Vargas"
 lead: "Las perspectivas de negocios del sector agrícola y la producción de alimentos que aprendí al trabajar en una innovadora empresa en Latinoamérica."
 shortdesc: "Los negocios agrícolas como motor del desarrollo en Latinoamérica"
-tags: ["ejecución perfecta","alto desempeño", "aprendizaje acelerado", "práctica", "cognición corpórea", "desconectarse"]
 date: "2020-01-27"
 draft: false
-tags: ["agricultura", "alimentos", "agroindustria","Popoyán"]
+tags: ["agricultura", "alimentos", "ambiente","salud", "biodiversidad"]
 slug: "las-valiosas-lecciones-que-aprendi-en-popoyan"
 
 ---
