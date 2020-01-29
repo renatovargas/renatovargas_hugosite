@@ -6,7 +6,7 @@ lead: "La lista de preocupaciones del reporte de riesgo global del Foro Económi
 shortdesc: "Reporte de riesgo global y las oportunidades para Latinoamérica."
 date: "2020-01-28"
 draft: false
-tags: ["agricultura", "alimentos", "agroindustria","Popoyán"]
+tags: ["agricultura", "alimentos", "agroindustria","Foro Económico Mundial"]
 slug: "riesgos-y-oportunidades-2020"
 
 ---
