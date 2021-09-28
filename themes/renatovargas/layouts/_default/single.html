@@ -40,7 +40,7 @@
             
             {{ with .Params.tags }}
             <hr>
-            <p> Temas: {{ range $index, $tag := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" }}{{ . | urlize }}">{{ . }}</a>{{ end }}.</p> 
+            <p> Topics: {{ range $index, $tag := . }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/tags/" }}{{ . | urlize }}">{{ . }}</a>{{ end }}.</p> 
             {{ end }}
 
         </div>
