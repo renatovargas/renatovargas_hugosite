@@ -4,7 +4,7 @@ title: "Integrated Environmental and Economic Analysis: My Life's Work"
 author: "Renato Vargas"
 lead: "It's been more than a decade and a half since I started working on uncovering the links between the economy and the environment. Let's see where this is going."
 shortdesc: "My life's work in environmental and economic analysis"
-date: "September 8, 2021"
+date: "2021-09-28"
 draft: false
 tags: ["environment, economics, natural capital accounting"]
 slug: "my-life-s-work"
