@@ -1,0 +1,25 @@
+{{ partial "site-header" }}
+
+
+{{ partial "site-navbar" }}
+
+<div class="container">
+    <div class="row">
+		<div class="col-md-1"></div>
+        <div class="col-md-10">
+            <h1 class="text-center">{{ .Params.Title }}</h1>
+
+              {{ range .Data.Pages }}
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a> <small>{{.Date.Format "Jan. 2, 2006"}}</small></h3>
+              <p>{{ .Params.shortdesc | markdownify }}</p>
+            {{ end }}
+
+        </div>
+		<div class="col-md-1"></div>
+    </div>
+    <!-- End row-->
+</div>
+<!-- End container-->
+
+
+{{ partial "site-footer.html" }}
