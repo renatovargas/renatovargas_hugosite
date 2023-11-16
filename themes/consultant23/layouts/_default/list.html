@@ -1,0 +1,58 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<section class="hero is-info is-small">
+    <!--section class="container"-->
+    <div class="hero-body">
+        <div class="container">
+                <p class="title has-text-centered">
+                    {{ .Title }}
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="columns">
+
+        <div class="column">
+            
+        </div>
+
+        <div class="column is-three-fifths">
+            {{ range .Pages }}
+            <article class="media">
+        
+                {{ $var := .Params.aoi }}
+                {{ if $var }}
+                <figure class="media-left">
+                  <p class="image is-128x128">
+                    <img src="{{ .Permalink }}/{{ .Params.aoi }}">
+                  </p>
+                </figure>
+                {{ end }}
+        
+        
+                <div class="media-content">
+                  <div class="content">
+                    
+                      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                      
+                      <p> {{ .Params.abstract }}</p>
+                  </div>
+                </div>
+              </article>
+              {{ end }}
+                 
+        </div>
+
+        <div class="column">
+        </div>
+
+    </div>
+  </section>
+
+
+{{ partial "footer.html" . }}

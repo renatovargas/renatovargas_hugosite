@@ -1,0 +1,162 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+    <!--First Section - Intro Hero-->
+    <section class="hero is-info is-small">
+        <!--section class="container"-->
+        <div class="hero-body">
+            <div class="container">
+                    <p class="title has-text-centered">
+                        {{ .Title }}
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--End First Section - Intro Hero-->
+
+    <!--Section: Content-->
+    <section class="section">
+        <!--section class="container"-->
+        <div class="columns">
+
+            <div class="column">
+                
+            </div>
+
+            <div class="column is-three-fifths">
+
+                
+                <div class="content">
+                    <h3>{{ .Params.abstract }}</h3>
+                </div>           
+            </div>
+
+            <div class="column">
+            </div>
+
+        </div>
+        <div class="columns">
+            <div class="column">
+                {{ $var := .Params.aoi }}
+                    {{ if $var }}
+                    <figure class="image is-fullwidth">
+                    <img src="{{ $var }}">
+                    </figure>
+                  {{ end }}
+
+            </div>
+            <div class="column is-half">
+                
+                <div class="content">
+                    {{ .Content }}
+                </div>
+
+                
+
+                
+                
+            </div>
+
+            <div class="column">
+                <div class="content">
+                    <p><b>Team:</b> {{ range $k, $v := .Params.team }} {{- if $k }}, {{ end }} {{ . }} {{- end }}.</p>
+                    <p><b>Client(s):</b> {{ range $k, $v := .Params.clients }} {{- if $k }}, {{ end }} {{ . }} {{- end }}.</p>
+                    <p><b>Method(s):</b> {{ range $k, $v := .Params.methods }} {{- if $k }}, {{ end }} {{ . }} {{- end }}.</p>
+                    {{ with .Params.files }}		
+			 
+			    <h2>Related material</h2>
+			 
+				<table class="table">
+					<thead>
+                        <tr>
+						<th>Name</th>
+                        <!--<th>Filetype</th>-->
+						<th class="text-center">Link</th>
+					</thead>
+                </tr>
+				  {{ range . }}
+				    <tr>
+						<td><p>{{ .name }} ({{ .filetype }})</p></td>
+                        <!--<td>{{ .filetype }} </td>-->
+						<td><a class="button is-success" href= "{{ .file }}" >Download</a></td>
+					</tr>
+				  {{ end }}
+				</table>
+
+			{{end}}
+
+                    
+
+
+
+                    </div>
+            </div>
+        </div>
+
+
+    </section>
+
+
+
+    <!--End método-->
+
+    <!--Last Section - Outro Hero-->
+    <section class="hero is-info">
+        <!--section class="container"-->
+        <div class="hero-body">
+            <div class="columns">
+
+                <div class="column is-two-thirds">
+                    <p class="title">
+                        Economist and independent consultant
+                    </p>
+                    <p class="subtitle">
+                        With over 15 years of experience creating scientifically-validated content for international
+                        organizations, I can help you design, manage, execute, document, and disseminate original
+                        research and analysis, creating intellectual property assets to persuade clients, partners,
+                        and staff of the benefits of different courses of action, products, or services, thus
+                        strengthening
+                        the organization's institutional reputation and expertise.
+                    </p>
+                </div>
+                <div class="column">
+
+                    <!--Start card-->
+                    <div class="card">
+                        <div class="card-content">
+
+                            <div class="card-image has-text-centered">
+                                <figure class="image is-128x128 is-inline-block">
+                                    <img class="is-rounded" src="/assets/img/renato-vargas.jpg" />
+                                </figure>
+                            </div>
+                            <p class="has-text-centered">Let's book a call to determine if my services match your needs.
+                                Contact me:</p>
+
+                        </div>
+                        <footer class="card-footer">
+                            <p class="card-footer-item">
+
+                                <a href="https://wa.me/50233654263" target="_blank"><button class="button is-success"><i
+                                            class="fa fa-whatsapp fa-fw" aria-hidden="true"></i>WhatsApp
+                                    </button></a>
+                            </p>
+                            <p class="card-footer-item">
+                                <a href="https://www.linkedin.com/in/revargas/" target="_blank"><button
+                                        class="button is-info"><i class="fa fa-linkedin fa-fw"
+                                            aria-hidden="true"></i>LinkedIn
+                                    </button></a>
+                            </p>
+                        </footer>
+                    </div>
+                    <!--End Card-->
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--End Last Section - Outro Hero-->
+
+{{ partial "footer.html" . }}

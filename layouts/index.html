@@ -1,96 +1,6 @@
-<!DOCTYPE html>
-<html>
+{{ partial "header.html" . }}
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Renato Vargas | Your organization's knowledge is an asset</title>
-  <meta name="description"
-    content="Experienced economist conducting original research and helping your organization turn specialized knowledge and data into high quality editorial content to persuade clients and disseminate ideas.">
-  <script src="https://kit.fontawesome.com/e8a29d98ab.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  <!--Navbar js-->
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-
-      // Get all "navbar-burger" elements
-      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
-      // Add a click event on each of them
-      $navbarBurgers.forEach(el => {
-        el.addEventListener('click', () => {
-
-          // Get the target from the "data-target" attribute
-          const target = el.dataset.target;
-          const $target = document.getElementById(target);
-
-          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-          el.classList.toggle('is-active');
-          $target.classList.toggle('is-active');
-
-        });
-      });
-
-    });
-  </script>
-  <!--End Navbar js-->
-
-
-
-</head>
-
-<body>
-
-  <!-- Start Navbar-->
-  <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="/">
-        <img src="../assets/img/renatovargas-logo.png" width="112" height="28">
-      </a>
-
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-start">
-        <!--
-
-        <a class="navbar-item">
-          Servicios
-        </a>
-        <a class="navbar-item">
-          Recursos
-        </a>
-        <a class="navbar-item">
-          Publicaciones
-        </a>
-        <a class="navbar-item">
-          En Vivo
-        </a>-->
-        <div class="navbar-item">
-          <a href="https://www.linkedin.com/in/revargas/" target="_blank"><i class="fa fa-linkedin fa-fw"
-              aria-hidden="true"></i>LinkedIn</a>
-        </div>
-      </div>
-    </div>
-
-    <!--Navbar end -->
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <a href="index-es.html"><button class="button is-warning">Español
-          </button></a>
-      </div>
-
-    </div>
-
-
-
-  </nav>
-  <!-- End Navbar-->
+ {{ partial "navbar.html" . }}
 
   <!--First Section - Intro Hero-->
   <section class="hero is-info is-medium">
@@ -100,15 +10,15 @@
 
         <div class="column is-two-thirds">
           <p class="title">
+            Economist & Consultant: <br> 
             The specialized knowledge of your organization is an asset
           </p>
           <p class="subtitle">
-            As an independent consultant in economics, agricultural productivity, environmental sustainability, and
+            As an international consultant in economics, agricultural productivity, environmental sustainability, and
             geographic
             information systems, I help organizations conduct specialized research and analysis and turn it into
             flagship reports,
-            books, journal articles, structured talks, training materials, and social network content to persuade
-            clients and
+            books, journal articles, structured talks, training materials, and social network content to
             disseminate ideas.
           </p>
         </div>
@@ -359,72 +269,6 @@
 
   <!--End método-->
 
-  <!--Last Section - Outro Hero-->
-  <section class="hero is-info">
-    <!--section class="container"-->
-    <div class="hero-body">
-      <div class="columns">
+  {{ partial "prefooter.html" . }}
 
-        <div class="column is-two-thirds">
-          <p class="title">
-            Economist and independent consultant
-          </p>
-          <p class="subtitle">
-            With over 15 years of experience creating scientifically-validated content for international 
-            organizations, I can help you design, manage, execute, document, and disseminate original 
-            research and analysis, creating intellectual property assets to persuade clients, partners, 
-            and staff of the benefits of different courses of action, products, or services, thus strengthening 
-            the organization's institutional reputation and expertise.
-          </p>
-        </div>
-        <div class="column">
-
-          <!--Start card-->
-          <div class="card">
-            <div class="card-content">
-
-              <div class="card-image has-text-centered">
-                <figure class="image is-128x128 is-inline-block">
-                  <img class="is-rounded" src="/assets/img/renato-vargas.jpg" />
-                </figure>
-              </div>
-              <p class="has-text-centered">Let's book a call to determine if my services match your needs. Contact me:</p>
-
-            </div>
-            <footer class="card-footer">
-              <p class="card-footer-item">
-
-                <a href="https://wa.me/50233654263" target="_blank"><button class="button is-success"><i
-                      class="fa fa-whatsapp fa-fw" aria-hidden="true"></i>WhatsApp
-                  </button></a>
-              </p>
-              <p class="card-footer-item">
-                <a href="https://www.linkedin.com/in/revargas/" target="_blank"><button class="button is-info"><i
-                      class="fa fa-linkedin fa-fw" aria-hidden="true"></i>LinkedIn
-                  </button></a>
-              </p>
-            </footer>
-          </div>
-          <!--End Card-->
-        </div>
-
-      </div>
-    </div>
-  </section>
-  <!--End Last Section - Outro Hero-->
-
-  <!--Start Footer-->
-  <footer class="footer">
-    <div class="content has-text-centered">
-      <p class="title is-5">Suscribe to my newsletter:</p>
-      <p>
-        <iframe src="https://toolsforconsultants.substack.com/embed" width="340" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-      </p>
-      <p>Guatemala City, Guatemala | Washington, D.C.</p>
-    </div>
-  </footer>
-  <!--End Footer-->
-
-</body>
-
-</html>
+  {{ partial "footer.html" . }}
